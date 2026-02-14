@@ -3,7 +3,7 @@
 HelpZap is a modern hyperlocal micro-gig web platform where users can post, discover, and accept nearby tasks. The project focuses on building a clean UI, task browsing experience, and a structured dashboard system using frontend technologies and Firebase integration.
 
 ## 🚀 Live Demo
-hhttps://help-zap-tau.vercel.app/
+https://help-zap-tau.vercel.app/
 
 ## 🛠 Tech Stack
 - HTML
